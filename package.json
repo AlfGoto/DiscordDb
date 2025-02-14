@@ -1,5 +1,5 @@
 {
-  "name": "discorddb",
+  "name": "@alfgoto/discorddb",
   "version": "1.0.0",
   "description": "A funny project using webhook as a database",
   "main": "index.js",

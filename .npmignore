@@ -1,3 +1,6 @@
 .gitignore
 .github/workflows/upgrade.yml
 test.js
+.env
+node_modules
+secret.mjs

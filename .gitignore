@@ -1,1 +1,4 @@
 test.js
+.env
+node_modules
+secret.mjs
